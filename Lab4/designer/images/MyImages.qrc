@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>icon1.ico</file>
+        <file>icon2.ico</file>
+        <file>iconExit.ico</file>
+        <file>iconInfo.ico</file>
+        <file>iconInstructions.ico</file>
+    </qresource>
+    <qresource prefix="/Pictures">
+        <file>Disney_42.png</file>
+        <file>Koala.jpg</file>
+        <file>spyder1.bmp</file>
+        <file>super_spy.bmp</file>
+        <file>Water lilies.jpg</file>
+        <file>WomenAndDog.jpg</file>
+    </qresource>
+    <qresource prefix="/Translations" lang="/ru">
+        <file>designer_ru.qm</file>
+    </qresource>
+</RCC>
