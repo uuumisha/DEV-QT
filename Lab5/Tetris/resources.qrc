@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>images/icon1.ico</file>
+        <file>images/icon2.ico</file>
+        <file>images/iconExit.ico</file>
+        <file>images/iconInfo.ico</file>
+        <file>images/iconInstructions.ico</file>
+        <file>images/Tetris.jpg</file>
+        <file>images/newgame.png</file>
+    </qresource>
+    <qresource prefix="/Buttons">
+        <file>images/Disney_42.png</file>
+        <file>images/Koala.jpg</file>
+        <file>images/Water lilies.jpg</file>
+    </qresource>
+    <qresource prefix="/Translations" lang="/ru">
+        <file>tetris_ru.qm</file>
+    </qresource>
+</RCC>
